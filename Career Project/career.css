@@ -1,0 +1,51 @@
+p {
+	text-align: center;
+	font-size: 20
+	color: #FF0000;
+	px;
+}
+
+h3 {
+	text-align: center;
+	color: ;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	color:black;
+}
+
+body {
+	background-color: lightblue;
+}
+
+.pic1 {
+	margin-left: 220px;
+}
+
+.pic2 {
+	margin-right: 220px;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+li {
+	text-align: center;
+}
+
+.headers {
+	color: ;
+}
